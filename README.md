@@ -3,7 +3,7 @@
 Used React & Redux.
 
 :rocket:
-[Live Demo](https://zgrcnltnk.github.io/atolye15-stajKampi/ "Live Demo")
+[Live Demo](https://ozgurdevo.github.io/atolye15-stajKampi/ "Live Demo")
 
 ### `npm i`
 
