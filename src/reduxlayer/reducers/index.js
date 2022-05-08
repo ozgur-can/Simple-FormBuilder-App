@@ -15,10 +15,9 @@ const reducer = (
   switch (action.type) {
     case "ADD_TO_QUESTIONS": {
       let qs;
-      state.data.find(obj => {
-        if (obj.name === action.frameworkName) qs = obj.questions;
-      });
-      console.log(qs);
+      for (const obj_ of state.data) {
+        if (obj_.name === action.frameworkName) qs = obj_.questions;
+      }
 
       return {
         ...state,
