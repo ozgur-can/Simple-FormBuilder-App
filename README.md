@@ -3,7 +3,7 @@
 Used React & Redux.
 
 :rocket:
-[Live Demo](https://github.com/ozgurdevo/Simple-Form-App/ "Live Demo")
+[Live Demo](https://ozgurdevo.github.io/Simple-Form-App/ "Live Demo")
 
 ### `npm i`
 
