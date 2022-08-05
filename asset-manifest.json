@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Simple-Form-App/static/css/main.d993f63f.css",
-    "main.js": "/Simple-Form-App/static/js/main.cf5c9a0c.js",
-    "index.html": "/Simple-Form-App/index.html",
-    "main.d993f63f.css.map": "/Simple-Form-App/static/css/main.d993f63f.css.map",
-    "main.cf5c9a0c.js.map": "/Simple-Form-App/static/js/main.cf5c9a0c.js.map"
+    "main.css": "/Simple-FormBuilder-App/static/css/main.8553725d.css",
+    "main.js": "/Simple-FormBuilder-App/static/js/main.478b9f7e.js",
+    "index.html": "/Simple-FormBuilder-App/index.html",
+    "main.8553725d.css.map": "/Simple-FormBuilder-App/static/css/main.8553725d.css.map",
+    "main.478b9f7e.js.map": "/Simple-FormBuilder-App/static/js/main.478b9f7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d993f63f.css",
-    "static/js/main.cf5c9a0c.js"
+    "static/css/main.8553725d.css",
+    "static/js/main.478b9f7e.js"
   ]
 }
