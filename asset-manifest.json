@@ -1,21 +1,13 @@
 {
   "files": {
-    "main.css": "/atolye15-stajKampi/static/css/main.b100e6da.chunk.css",
-    "main.js": "/atolye15-stajKampi/static/js/main.9ca238f1.chunk.js",
-    "main.js.map": "/atolye15-stajKampi/static/js/main.9ca238f1.chunk.js.map",
-    "runtime-main.js": "/atolye15-stajKampi/static/js/runtime-main.202a9e19.js",
-    "runtime-main.js.map": "/atolye15-stajKampi/static/js/runtime-main.202a9e19.js.map",
-    "static/js/2.b56eef52.chunk.js": "/atolye15-stajKampi/static/js/2.b56eef52.chunk.js",
-    "static/js/2.b56eef52.chunk.js.map": "/atolye15-stajKampi/static/js/2.b56eef52.chunk.js.map",
-    "index.html": "/atolye15-stajKampi/index.html",
-    "precache-manifest.3403887b03e47e472d114ae563feee5f.js": "/atolye15-stajKampi/precache-manifest.3403887b03e47e472d114ae563feee5f.js",
-    "service-worker.js": "/atolye15-stajKampi/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/atolye15-stajKampi/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/Simple-Form-App/static/css/main.d993f63f.css",
+    "main.js": "/Simple-Form-App/static/js/main.cf5c9a0c.js",
+    "index.html": "/Simple-Form-App/index.html",
+    "main.d993f63f.css.map": "/Simple-Form-App/static/css/main.d993f63f.css.map",
+    "main.cf5c9a0c.js.map": "/Simple-Form-App/static/js/main.cf5c9a0c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.202a9e19.js",
-    "static/js/2.b56eef52.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.9ca238f1.chunk.js"
+    "static/css/main.d993f63f.css",
+    "static/js/main.cf5c9a0c.js"
   ]
 }
