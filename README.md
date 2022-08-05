@@ -1,10 +1,14 @@
-**Basic form initializer project that I created in Atölye15 code bootcamp 30.11.2019.**
+<h2 align="center"><b>Form Builder App</b></h2>
 
-Used React & Redux.
+**Form builder app, created in Atölye15 code bootcamp event at 30.11.2019.**
+**Used React & Redux.**:rocket:
 
-:rocket:
-[Live Demo](https://ozgurdevo.github.io/Simple-Form-App/ "Live Demo")
+[Live Demo](https://ozgurdevo.github.io/Simple-FormBuilder-App/ "Live Demo")
 
-### `npm i`
+**Code Run Steps**
 
-### `npm start`
+```
+npm i
+
+npm start
+```

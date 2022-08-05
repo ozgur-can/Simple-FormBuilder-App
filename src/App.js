@@ -4,17 +4,16 @@ import { addToQuestions, addToAnswers } from "./reduxlayer/actions";
 import { Route } from "react-router-dom";
 import SubmissionScreen from "./components/SubmissionScreen";
 import Form from "./components/Form";
-import "./App.css";
 
-function App(props) {
+function App() {
   return (
-    <div className="App">
+    <React.Fragment>
       <Route path="/" exact component={Form} />
       <Route
         path="/submission"
         render={props => <SubmissionScreen object={props.answers} {...props} />}
       />
-    </div>
+    </React.Fragment>
   );
 }
 
