@@ -3,7 +3,7 @@
 **Form builder app, created in Atölye15 code bootcamp event at 30.11.2019.**
 **Used React & Redux.**:rocket:
 
-[Live Demo](https://ozgurdevo.github.io/Simple-FormBuilder-App/ "Live Demo")
+[Live Demo](https://ozgur-can.github.io/Simple-FormBuilder-App/ "Live Demo")
 
 **Code Run Steps**
 
